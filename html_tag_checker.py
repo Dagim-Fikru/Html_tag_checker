@@ -1,5 +1,5 @@
 """
-This program will check if an html file has the right order of tags.
+This program will check if an html tags are closed or not.
 """
 
 not_closable_tags = ["<area>", "<base>", "<br>", "<col>", "<!doctype>", "<embed>", "<hr>",
